@@ -63,5 +63,14 @@ changlelog:
     - Status  
     - Image  
    
-  
+* User:  
+    * UserID  
+    * Name   
+    * Email  
+    * Password  
+    * Mobile  
+    * Active  
+    * Roles  
+    * Cart  
+    * Wishlist 
 
