@@ -1,5 +1,5 @@
 ## project design
-### Phase 1 (As of 12th Oct, 2021):  
+### Design 1 (Previous, valid till 12th Oct, 2021):  
 **Admin - Dashboard**
 Functionalities:  
 * Add **Category**
@@ -24,7 +24,7 @@ Create angular project to add CURD operation on
 * category  
 * subcategory  
 
-### Phase 2 (As of 13th Oct, 2021):  
+### Design 2 (As of 13th Oct, 2021):  
 changlelog:  
 * Removed Subcategory functionality   
 * User roles added - Customer, Admin  
