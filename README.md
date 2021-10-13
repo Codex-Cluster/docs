@@ -18,11 +18,9 @@ Functionalities:
     - image  
     - catId 
 * Add **Books** 
-    - 
-
-Create angular project to add CURD operation on  
-* category  
-* subcategory  
+* Create angular project to add CURD operation on  
+    * category  
+    * subcategory  
 
 ### Design 2 (As of 13th Oct, 2021):  
 changlelog:  
@@ -63,7 +61,7 @@ changlelog:
     - Status  
     - Image  
    
-* User:  
+* **User**:  
     * UserID  
     * Name   
     * Email  
